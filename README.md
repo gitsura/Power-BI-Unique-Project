@@ -60,7 +60,6 @@ The dashboard includes an item filter to analyze sales for selected products.
 - Data Visualization
 - Dashboard Development
 
-*Add the exact tools and technologies used in your project.*
 
 ## Conclusion
 The Cafe Sales Analysis Dashboard helps understand overall business performance through interactive charts, KPIs, and filters. It provides useful insights into product sales, payment preferences, and monthly sales trends to support better business decisions.
